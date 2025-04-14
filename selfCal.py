@@ -9,7 +9,7 @@ root.title("Simple Calculator")
 root.resizable(height=False,width=False)
 root.geometry("480x568+450+120")
 root.configure(bg="black")
-root.iconbitmap("calicon.ico")
+#root.iconbitmap("calicon.ico")
 
 cal=Frame(root)
 cal.grid()
