@@ -1,6 +1,6 @@
 ## Abstract
 
-This is a graphical user interface (GUI) calculator. Which perform basic mathematical operation such as addition, substraction, multiplication etc. We have to just give the expression by using button provided inside the calculater and click equal(=) button now we get the output of the expression.
+This is a graphical user interface (GUI) calculator. Which perform basic mathematical operation such as addition, subtraction, multiplication etc. We have to just give the expression by using button provided inside the calculator and click equal(=) button now we get the output of the expression.
 
 ## Language Used
 
